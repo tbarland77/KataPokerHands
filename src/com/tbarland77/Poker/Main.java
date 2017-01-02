@@ -13,7 +13,7 @@ public class Main {
 		Scanner scanner = new Scanner( System.in );
 		Hand player1Hand = new Hand();
 		Hand player2Hand = new Hand();
-
+		
 		System.out.print("Enter a name for player 1:");
 		String userInput = scanner.nextLine();
 		player1.setName(userInput);

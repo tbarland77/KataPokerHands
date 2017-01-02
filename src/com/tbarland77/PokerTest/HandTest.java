@@ -18,7 +18,6 @@ public class HandTest {
 	
 	@Before
 	public void Test() {
-		//
 		testHand = new Hand();
 	}
 	
